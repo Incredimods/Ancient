@@ -1,5 +1,5 @@
 /* 0.4.0 2023-02-00 00:00:00 */
-var app=new function(){this.name="Ancient",this.version="1",this.date="2024",this.folder="asset-v4/",this.looptime=9600,this.bpm=100,this.totalframe=460,this.nbpolo=7,this.nbloopbonus=8,this.bonusloopA=!0,this.bonusendloopA=!4,this.recmaxloop=34,this.recminloop=4,this.recmintime=Math.round(this.looptime/1e3)*this.recminloop,this.spritepolo="polo-sprite.png",this.spritepicto="game-picto.png",this.colBck="#3F1609",this.col0="#D9A222",this.col1="#C2861F",this.col2="#9E6319",this.col3="#834516",this.col4="#662C11",this.animearray=[
+var app=new function(){this.name="Ancient",this.version="1",this.date="2024",this.folder="asset-v1/",this.looptime=9600,this.bpm=100,this.totalframe=460,this.nbpolo=7,this.nbloopbonus=8,this.bonusloopA=!0,this.bonusendloopA=!4,this.recmaxloop=34,this.recminloop=4,this.recmintime=Math.round(this.looptime/1e3)*this.recminloop,this.spritepolo="polo-sprite.png",this.spritepicto="game-picto.png",this.colBck="#3F1609",this.col0="#D9A222",this.col1="#C2861F",this.col2="#9E6319",this.col3="#834516",this.col4="#662C11",this.animearray=[
   {name:"1_kami",color:"90580C",uniqsnd:!0},
   {name:"2_Kein",color:"90580C",uniqsnd:!0},
   {name:"3_Kim",color:"90580C",uniqsnd:!1},
